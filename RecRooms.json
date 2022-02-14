@@ -844,12 +844,12 @@
       }
     ]
   },
-  "DormRoom": {
+  "3DCharadesDorm": {
     "Room": {
-      "RoomId": 1,
-      "Name": "DormRoom",
+      "RoomId": 3,
+      "Name": "3DCharadesDorm",
       "Description": "Your private room",
-      "CreatorPlayerId": 936679107,
+      "CreatorPlayerId": 153628704,
       "ImageName": "ActivityDormRoom.png",
       "State": 0,
       "Accessibility": 1,
@@ -862,11 +862,11 @@
     },
     "Scenes": [
       {
-        "RoomSceneId": 1,
-        "RoomId": 1,
+        "RoomSceneId": 3,
+        "RoomId": 4,
         "RoomSceneLocationId": "76d98498-60a1-430c-ab76-b54a29b7a163",
-        "Name": "dormroom2",
-        "IsSandbox": false,
+        "Name": "charades",
+        "IsSandbox": true,
         "DataBlobName": "",
         "MaxPlayers": 20,
         "CanMatchmakeInto": true,
