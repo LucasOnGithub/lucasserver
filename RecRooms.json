@@ -844,10 +844,10 @@
       }
     ]
   },
-  "3DCharadesDorm": {
+  "DormRoom": {
     "Room": {
       "RoomId": 3,
-      "Name": "3DCharadesDorm",
+      "Name": "DormRoom",
       "Description": "Your private room",
       "CreatorPlayerId": 153628704,
       "ImageName": "ActivityDormRoom.png",
