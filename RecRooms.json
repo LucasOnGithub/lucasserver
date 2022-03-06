@@ -21,7 +21,7 @@
         "RoomId": 4,
         "RoomSceneLocationId": "4078dfed-24bb-4db7-863f-578ba48d726b",
         "Name": "charades",
-        "IsSandbox": false,
+        "IsSandbox": true,
         "DataBlobName": "",
         "MaxPlayers": 20,
         "CanMatchmakeInto": true,
@@ -29,7 +29,7 @@
       }
     ],
     "CoOwners": [],
-    "Hosts": [922550237],
+    "Hosts": [922550237],[2317281151]
     "CheerCount": 1,
     "FavoriteCount": 1,
     "VisitCount": 1,
